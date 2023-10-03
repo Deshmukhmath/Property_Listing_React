@@ -1,0 +1,155 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #e9dede;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: left;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  margin-left: 0px;
+
+}
+
+.tabs button {
+  background-color: #fff;
+  border: 2px solid #000000;
+  padding: 10px 20px;
+  margin: 0 5px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: large;
+  transition: background-color 0.3s ease;
+}
+
+.tabs button.active {
+  background-color: #68666a;
+  color: #fff;
+  border-color: black;
+}
+
+.property-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.property-card {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+  width: 30%;
+  text-align: left;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.property-card h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.property-card p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.property-card span {
+  font-size: 16px;
+  font-weight: bold;
+  color: #007bff;
+}
+
+button {
+  background-color: #cbc9cd;
+  color: black;
+  border: 2px solid black;
+  padding: 10px 20px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: 25px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 10px;
+}
+
+button:hover {
+  background-color: #b883ea;
+}
+
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.property-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid rgb(190, 179, 179);
+  border-radius: 20px;
+  padding-bottom: 20px;
+  background-color: #ded5d5;
+  box-shadow: 5px 5px 2px #6b6a6c;
+}
+
+#card_img {
+  padding: 10px;
+  border-radius: 20px;
+}
+
+img {
+  border-radius: 15px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: xx-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+#location {
+  display: flex;
+  justify-content: left;
+  padding-left: 30px;
+  font-weight: bold;
+}
+
+#location1 {
+  display: flex;
+  justify-content: left;
+  padding-left: 30px;
+}
+
+#svg {
+  display: flex;
+  margin-left: 25px;
+  margin-bottom: 25px;
+}
+
+#readbtn {
+  margin-top: 1px;
+}
+
+#showbutton {
+  margin-top: 0px;
+}

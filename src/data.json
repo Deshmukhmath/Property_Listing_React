@@ -1,0 +1,212 @@
+[
+    {
+        "id": 1,
+        "name": "Property 1",
+        "description": "A beautiful property with a stunning view in New York.",
+        "image": "https://photos.zillowstatic.com/fp/1aed84cf2c61fc1fef19ad107e0b8131-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 2,
+        "name": "Property 2",
+        "description": "Spacious and modern property in the heart of Chicago.",
+        "image": "https://photos.zillowstatic.com/fp/04ff00b05005294a86591ee3aea37d4f-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 3,
+        "name": "Property 3",
+        "description": "Cozy cottage surrounded by nature in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/1e72b28e27307395d250b7cf787121ac-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 4,
+        "name": "Property 4",
+        "description": "Luxurious penthouse with panoramic city views in New York.",
+        "image": "https://photos.zillowstatic.com/fp/335f733864501a95ea40804e54feabda-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 5,
+        "name": "Property 5",
+        "description": "Seaside villa with private beach access in Chicago.",
+        "image": "https://photos.zillowstatic.com/fp/febb5a71037d880db596ada82945e1e8-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 6,
+        "name": "Property 6",
+        "description": "Rustic cabin for a peaceful getaway in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/179e37cea7a4cc7c65bd3611226e4d4f-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 7,
+        "name": "Property 7",
+        "description": "Historic townhouse with a charming garden in New York.",
+        "image": "https://photos.zillowstatic.com/fp/93a8de0221a121e0b265e4edd4ab698f-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 8,
+        "name": "Property 8",
+        "description": "Modern loft with city skyline views in Chicago.",
+        "image": "https://photos.zillowstatic.com/fp/e8d85fb7d68567dfceef0bf9b8475db8-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 9,
+        "name": "Property 9",
+        "description": "Beachfront condo with a balcony overlooking the ocean in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/79e764eb103fc73f10a5bcc42c067c94-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 10,
+        "name": "Property 10",
+        "description": "Elegant mansion with a grand entrance in New York.",
+        "image": "https://photos.zillowstatic.com/fp/f75fa3e1739068006469936177e9c1b5-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 11,
+        "name": "Property 11",
+        "description": "Downtown apartment with easy access to city attractions in Chicago.",
+        "image": "https://photos.zillowstatic.com/fp/92f4acb8e5a50e699ac79d7316267788-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 12,
+        "name": "Property 12",
+        "description": "Tropical retreat with a private pool in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/3335a7caf9ed2f7e42f37e44e1146548-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 13,
+        "name": "Property 13",
+        "description": "Luxury penthouse with panoramic city views in New York.",
+        "image": "https://photos.zillowstatic.com/fp/2cc0846e19ab6cbb6bf61bb868a6fbbe-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 14,
+        "name": "Property 14",
+        "description": "Chic downtown apartment in Chicago's trendy neighborhood.",
+        "image": "https://photos.zillowstatic.com/fp/40f54e5f41e3a33d46c1dcea3634872b-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 15,
+        "name": "Property 15",
+        "description": "Beachfront bungalow with stunning sunsets in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/1f186e563de77e5f279a07ba3d860e92-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 16,
+        "name": "Property 16",
+        "description": "Historic mansion with timeless elegance in New York.",
+        "image": "https://photos.zillowstatic.com/fp/82f4a14bd3cb69f3bee29973245edd04-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 17,
+        "name": "Property 17",
+        "description": "Urban loft with artistic vibes in the heart of Chicago.",
+        "image": "https://photos.zillowstatic.com/fp/bc6896b0dc18cc21ac9fc149909792b3-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 18,
+        "name": "Property 18",
+        "description": "Secluded cottage by the bay for a tranquil escape in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/520326beee6cfb11f91e81986de68e1b-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 19,
+        "name": "Property 19",
+        "description": "Luxury penthouse with rooftop pool in New York.",
+        "image": "https://photos.zillowstatic.com/fp/48f99ee937a863b48655e2b3caae7b6d-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 20,
+        "name": "Property 20",
+        "description": "Art deco apartment with city views in Chicago.",
+        "image": "https://photos.zillowstatic.com/fp/ea33378dc2e56177ff33f904cc9e138e-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 21,
+        "name": "Property 21",
+        "description": "Beachfront villa with a private dock in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/50ebf2a27c5ea0a270c919372afe0274-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 22,
+        "name": "Property 22",
+        "description": "Luxurious resort-style living in Los Vegas.",
+        "image": "https://photos.zillowstatic.com/fp/fe51fa4190bab05bb1d54938b0c9c626-p_e.webp",
+        "location": "Los Vegas"
+    },
+    {
+        "id": 23,
+        "name": "Property 23",
+        "description": "Spacious loft with skyline views in New York.",
+        "image": "https://photos.zillowstatic.com/fp/5e27fe58608cd0387e2e4ef2491101ca-p_e.webp",
+        "location": "New York"
+    },
+    {
+        "id": 24,
+        "name": "Property 24",
+        "description": "Charming townhouse in a quiet Chicago neighborhood.",
+        "image": "https://photos.zillowstatic.com/fp/d74641cfb4b20a0aec26356f7ca75380-p_e.webp",
+        "location": "Chicago"
+    },
+    {
+        "id": 25,
+        "name": "Property 25",
+        "description": "Private island getaway with turquoise waters in Miami.",
+        "image": "https://photos.zillowstatic.com/fp/7460635e6a9994620dbbdb2774554bd6-p_e.webp",
+        "location": "Miami"
+    },
+    {
+        "id": 26,
+        "name": "Property 26",
+        "description": "Luxury high-rise apartment in the heart of Los Vegas.",
+        "image": "https://photos.zillowstatic.com/fp/955f332fa9fb0bb7fb7a9fbe05a1b70e-p_e.webp",
+        "location": "Los Vegas"
+    },
+    {
+        "id": 27,
+        "name": "Property 27",
+        "description": "Luxurious penthouse suite with a view of the Las Vegas Strip.",
+        "image": "https://photos.zillowstatic.com/fp/e792d125b5a413c7ef0b16fb85c7beb0-p_e.webp",
+        "location": "Los Vegas"
+    },
+    {
+        "id": 28,
+        "name": "Property 28",
+        "description": "Modern condo with a rooftop pool and city lights in Los Vegas.",
+        "image": "https://photos.zillowstatic.com/fp/6e2d493ffd57fec79da9cbd1bbec21dc-p_e.webp",
+        "location": "Los Vegas"
+    },
+    {
+        "id": 29,
+        "name": "Property 29",
+        "description": "Elegant villa with a private casino and entertainment area in Los Vegas.",
+        "image": "https://photos.zillowstatic.com/fp/3675b556d8c05b1eddf447fdfea86aeb-p_e.webp",
+        "location": "Los Vegas"
+    },
+    {
+        "id": 30,
+        "name": "Property 30",
+        "description": "Luxury resort on the outskirts of Las Vegas with golf courses and spa.",
+        "image": "https://photos.zillowstatic.com/fp/e4fa468ac8db4dce19ed3228f675b84f-p_e.webp",
+        "location": "Los Vegas"
+    }
+]
